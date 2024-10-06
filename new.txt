@@ -3,6 +3,5 @@ Working Directory --> Stagging area      --> Local Folder/Repository --> Remote 
 git initialiaztion == git init
 check status = git status 
 
-add all files from the working Directory to the stagging area: git add .
 
-moving files to the local repo: git commit Note.txt -m "moving the first file to the local repo."
+add every file to stagging area: git add .
