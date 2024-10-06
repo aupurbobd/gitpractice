@@ -1,0 +1,6 @@
+Working Directory --> Stagging area      --> Local Folder/Repository --> Remote Repository
+/gitpractice      --> git add "filename" --> git commit              --> git push
+git initialiaztion == git init
+check status = git status 
+
+add all files from the working Directory to the stagging area: git add .
