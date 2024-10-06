@@ -8,3 +8,5 @@ add all files from the working Directory to the stagging area: git add .
 moving files to the local repo: git commit Note.txt -m "moving the first file to the local repo."
 
  to see the log in one line: git log --oneline
+
+ bring back the file from local repo to stagging area: git checout
