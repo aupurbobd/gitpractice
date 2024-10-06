@@ -5,3 +5,5 @@ check status = git status
 
 
 add every file to stagging area: git add .
+
+Now I am working on the github web.
